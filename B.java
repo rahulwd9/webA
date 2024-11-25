@@ -1,4 +1,4 @@
-public B{
+public class B{
 
 public B(){
   System.out.println("I am From B")
